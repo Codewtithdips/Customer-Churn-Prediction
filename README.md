@@ -62,12 +62,13 @@ To run this project locally, follow these steps:
 ```
 📂 customer-churn-prediction
 │-- 📄 README.md
-│-- 📂 data (Dataset files)
-│-- 📂 notebooks (Jupyter notebooks)
-│-- 📂 src (Python scripts for preprocessing & modeling)
-│-- 📂 models (Saved trained models)
-│-- 📄 requirements.txt
-│-- 📄 churn_prediction.py
+│-- 📂 Churn Analysis
+│-- 📂 Dataset
+│-- 📂 Model Building
+│-- 📂 templates
+│-- 📄 app.py
+│-- 📄 model.sav
+|-- 📄 requirements.txt
 ```
 
 ## ✨ Future Improvements
