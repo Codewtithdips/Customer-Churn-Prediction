@@ -76,13 +76,12 @@ To run this project locally, follow these steps:
 - Feature selection for better interpretability
 
 
-## 📜 License
-This project is licensed under the MIT License.
+
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 ## 📞 Contact
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email**: your-email@example.com
+- **GitHub**: [Your GitHub Profile](https://github.com/Codewtithdips)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dipankardebnath-/)
+- **Email**: debnathdpankar27@gmail.com
