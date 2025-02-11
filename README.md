@@ -82,6 +82,6 @@ To run this project locally, follow these steps:
 Contributions, issues, and feature requests are welcome!
 
 ## 📞 Contact
-- **GitHub**: [Your GitHub Profile](https://github.com/Codewtithdips)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dipankardebnath-/)
+- **GitHub**: [My GitHub Profile](https://github.com/Codewtithdips)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/dipankardebnath-/)
 - **Email**: debnathdpankar27@gmail.com
