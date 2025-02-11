@@ -21,9 +21,9 @@ To run this project locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd customer-churn-prediction
+   cd Customer-Churn-Prediction
    ```
-3. Install dependencies:
+3. Install dependencies or Install the required libraries by pip install or You can use file requirements.txt:
    ```bash
    pip install -r requirements.txt
    ```
