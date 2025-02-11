@@ -1,7 +1,7 @@
 # Project: Customer Churn Prediction
 
 ## 📌 Project Overview
-Developed a predictive model for telecom customer churn using supervised machine learning techniques. Conducted data cleaning, feature engineering, and exploratory data analysis to enhance model performance. Applied Decision Tree and Random Forest classifiers, addressing class imbalance with SMOTE. Achieved 93.49% accuracy with Random Forest and deployed the model using Flask for real-time predictions.
+Developed a predictive model for telecom customer churn using supervised machine learning techniques. Conducted data cleaning, feature engineering, and exploratory data analysis to enhance model performance. Applied Decision Tree and Random Forest classifiers, addressing class imbalance with SMOTE. Achieved 93.49% accuracy with Random Forest and deployed the model using Flask for real-time predictions
 
 ## 📂 Dataset
 - **Source**: Dataset taken from Kaggle 
