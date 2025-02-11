@@ -1,4 +1,4 @@
- Customer Churn Prediction
+# Customer Churn Prediction
 
 ## 📌 Project Overview
 Customer churn is a critical issue for businesses, as retaining customers is more cost-effective than acquiring new ones. This project aims to predict customer churn using machine learning techniques, helping businesses take proactive measures to retain customers.
