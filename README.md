@@ -54,6 +54,8 @@ To run this project locally, follow these steps:
   ```bash
   python app.py
   ```
+
+## Open the browser at http://127.0.0.1:5000/
   
 
 ## 📁 Directory Structure
