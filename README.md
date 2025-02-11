@@ -1,20 +1,15 @@
-# Customer Churn Prediction
+# Project: Customer Churn Prediction
 
 ## 📌 Project Overview
-Customer churn is a critical issue for businesses, as retaining customers is more cost-effective than acquiring new ones. This project aims to predict customer churn using machine learning techniques, helping businesses take proactive measures to retain customers.
+Developed a predictive model for telecom customer churn using supervised machine learning techniques. Conducted data cleaning, feature engineering, and exploratory data analysis to enhance model performance. Applied Decision Tree and Random Forest classifiers, addressing class imbalance with SMOTE. Achieved 93.49% accuracy with Random Forest and deployed the model using Flask for real-time predictions.
 
 ## 📂 Dataset
-- **Source**: (Mention dataset source - e.g., Kaggle, UCI, or synthetic)
-- **Description**: Contains customer demographics, account details, and behavioral features.
-- **Key Features**:
-  - `CustomerID`: Unique identifier for each customer
-  - `Age`, `Gender`, `Tenure`: Customer demographic information
-  - `MonthlyCharges`, `TotalCharges`: Payment-related details
-  - `Churn`: Target variable (Yes/No)
+- **Source**: Dataset taken from Kaggle 
+
 
 ## 🛠️ Tech Stack
-- **Programming Language**: Python
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Programming Language**: Python , HTML , CSS
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn , Flask
 - **Machine Learning Models**: Logistic Regression, Decision Tree, Random Forest, XGBoost
 
 ## 🚀 Installation & Setup
@@ -22,7 +17,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/customer-churn-prediction.git
+   https://github.com/Codewtithdips/Customer-Churn-Prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
