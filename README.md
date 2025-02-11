@@ -27,9 +27,9 @@ To run this project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the Jupyter Notebook or Python script:
+4. Run the Python script:
    ```bash
-   jupyter notebook
+   app.py
    ```
 
 ## 📊 Exploratory Data Analysis (EDA)
@@ -47,6 +47,15 @@ To run this project locally, follow these steps:
 - Key insights from feature importance
 - Business recommendations based on results
 
+
+### Usage 
+
+- Run in Command Line :
+  ```bash
+  python app.py
+  ```
+  
+
 ## 📁 Directory Structure
 ```
 📂 customer-churn-prediction
@@ -62,7 +71,7 @@ To run this project locally, follow these steps:
 ## ✨ Future Improvements
 - Experiment with deep learning models
 - Feature selection for better interpretability
-- Deploy the model as a web service (Flask/Django API)
+
 
 ## 📜 License
 This project is licensed under the MIT License.
